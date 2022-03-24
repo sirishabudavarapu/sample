@@ -1,0 +1,19 @@
+
+What is Git:
+
+Git is a Devops tool used for source code management.it is a free and open-source version control system. It is used to handle small to very large projects efficiently.
+
+What is version control  system:
+
+A version control  systesm is kind of software that helps the developer team to efficiently communicate and manage  all the changes. These changes that have been made  to the source code along with the information like who made and what changes has been made.
+
+Distributed version clone system:
+
+Distributed version control clone system a type of version cotrol where the complete code base.
+
+
+SVN vs GIT:
+
+1.Git is a distributed model.	1.Svn has a centralized model.
+ 2.In git  every user has their own copy of code on their local  local  like their own branch.	2.SVN  there is a central repository. Working copy that also make changes and commited in central repository.
+
